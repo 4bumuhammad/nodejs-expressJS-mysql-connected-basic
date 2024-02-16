@@ -111,3 +111,13 @@ output :
 
     [{"id":1,"nama":"andara","alamat":"jaksel"},{"id":2,"nama":"sukiman","alamat":"bekasi"}]
 
+
+
+---
+
+<p align="center">
+    <img src="./ss_appjs.png" alt="Tampilan pada browser" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">Tampilan pada browser</p>
+
+---
