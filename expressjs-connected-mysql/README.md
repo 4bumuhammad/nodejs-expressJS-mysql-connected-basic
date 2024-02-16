@@ -2,6 +2,11 @@
 
 ---
 
+instalasi expressjs:
+
+    > npm install express
+
+
 pastikan sebelumnya telah menginstall paket diperlukan yaitu :
 
     - mysql
@@ -19,7 +24,7 @@ pastikan sebelumnya telah menginstall paket diperlukan yaitu :
                 └── mysql@2.18.1
 
 
-buat file json secara manual dan isinya.
+periksa file json dan buat file js secara manual serta isinya.
 
     - package.json
 
