@@ -33,8 +33,11 @@ periksa file json dan buat file js secara manual serta isinya.
 
 
 jalankan:
+
     > node app.js
+
         op:
+
         Server running on port 3000
 
 
@@ -56,6 +59,8 @@ Server berjalan pada port 3000
 Koneksi ke database gagal:  
 
     Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+
+
 
 
 untuk mengatasi hal tersebut lakukan langkah berikut:
