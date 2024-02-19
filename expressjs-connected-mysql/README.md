@@ -4,7 +4,7 @@
 
 instalasi expressjs:
 
-    > npm install express
+   ❯ npm install express
 
 
 pastikan sebelumnya telah menginstall paket diperlukan yaitu :
