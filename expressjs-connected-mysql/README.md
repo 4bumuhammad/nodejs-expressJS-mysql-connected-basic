@@ -26,9 +26,9 @@ pastikan sebelumnya telah menginstall paket diperlukan yaitu :
 
 periksa file json dan buat file js secara manual serta isinya.
 
-    - package.json
+- package.json
 
-    - app.js
+- app.js
 
 
 
